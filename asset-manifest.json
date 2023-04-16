@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/capstone-project-restaurant/static/css/main.ae1a0e49.css",
-    "main.js": "/capstone-project-restaurant/static/js/main.fc5f8c4f.js",
+    "main.js": "/capstone-project-restaurant/static/js/main.b1cbe4be.js",
     "static/media/food.jpg": "/capstone-project-restaurant/static/media/food.b43517f155be23d9572c.jpg",
     "static/media/soup.jpg": "/capstone-project-restaurant/static/media/soup.01dac9e6f37ed34d9a16.jpg",
     "static/media/Mario and Adrian b.jpg": "/capstone-project-restaurant/static/media/Mario and Adrian b.06965d3be1daefe908e9.jpg",
@@ -25,10 +25,10 @@
     "index.html": "/capstone-project-restaurant/index.html",
     "static/media/icon _hamburger menu.svg": "/capstone-project-restaurant/static/media/icon _hamburger menu.0da6f67ced800ab909f63d5144de37ee.svg",
     "main.ae1a0e49.css.map": "/capstone-project-restaurant/static/css/main.ae1a0e49.css.map",
-    "main.fc5f8c4f.js.map": "/capstone-project-restaurant/static/js/main.fc5f8c4f.js.map"
+    "main.b1cbe4be.js.map": "/capstone-project-restaurant/static/js/main.b1cbe4be.js.map"
   },
   "entrypoints": [
     "static/css/main.ae1a0e49.css",
-    "static/js/main.fc5f8c4f.js"
+    "static/js/main.b1cbe4be.js"
   ]
 }
