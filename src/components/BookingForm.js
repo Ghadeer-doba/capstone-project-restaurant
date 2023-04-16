@@ -96,8 +96,8 @@ function BookingForm(){
 
             <label htmlFor="guests">Number of guests</label>
             <input className="guests-nu" type="number" placeholder="0" min="0" max="10" id="guests" name="guests" value={guests} onChange={handleGuestsChange} required />
-            {guests==="0" && <p className="time-selected">Please enter a valid number of people!</p>}
-            
+            {(guests === "0" || guests < 0 || guests > 10) && (<p className="time-selected">Please enter a valid number of people!</p>
+            )}            
             <label htmlFor="occasion">Occasion</label>
             <select className="occasion" id="occasion" name="occasion" value={occasion} onChange={handleOccasionChange} required>
                 <option>Birthday</option>
