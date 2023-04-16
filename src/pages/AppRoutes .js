@@ -11,7 +11,7 @@ function AppRoutes (){
     return(
     <Routes>
       
-      <Route path="/" element={<Home />} />
+      <Route  exact path="/" element={<Home />} />
       <Route path="/about" element={<About/>} />
       <Route path="/menu" element={<Menu/>} />
       <Route path="/reservation" element={<Reservation/>} />
