@@ -4,6 +4,7 @@ import"../style/Footer.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPhone, faLocationDot, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { faTwitter ,faFacebook } from '@fortawesome/free-brands-svg-icons';
+import { NavLink } from "react-router-dom";
 
 function Footer(){
     return(
@@ -13,11 +14,11 @@ function Footer(){
 
         <nav className="footer-nav">
       <ul>
-        <li><a className="footer-a" href="/">Home</a></li>
-        <li><a className="footer-a" href="/about">About</a></li>
-        <li><a className="footer-a" href="/menu">Menu</a></li>
-        <li><a className="footer-a" href="/reservation" >Reservation</a></li>
-        <li><a className="footer-a" href="/order">Order Online</a></li>
+        <li><NavLink NavLink className="footer-a" to="/">Home</NavLink></li>
+        <li><NavLink className="footer-a" to="/about">About</NavLink></li>
+        <li><NavLink className="footer-a" to="/menu">Menu</NavLink></li>
+        <li><NavLink className="footer-a" to="/reservation" >Reservation</NavLink></li>
+        <li><NavLink className="footer-a" to="/order">Order Online</NavLink></li>
         {/* <li><a className="footer-a" href="/login">Login</a></li> */}
       </ul>
 

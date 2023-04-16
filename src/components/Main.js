@@ -11,6 +11,7 @@ import img6 from "../assets/woman.jpg";
 import img7 from "../assets/man2.jpg";
 import img8 from "../assets/woman2.jpg";
 import img9 from "../assets/Mario and Adrian A.jpg";
+import { NavLink } from "react-router-dom";
 
 function Main(){
 
@@ -22,7 +23,7 @@ function Main(){
                     <p className="p-a1">Little Lemon is a family-owned Mediterranean
                     restaurant, focused on traditional recipes served
                     with a modern twist.</p>
-                    <a className="hover-btn" href="/reservation"><button type="submit" className="button-a button-a1">Reserve a Table</button></a>
+                    <NavLink className="hover-btn" to="/reservation"><button type="submit" className="button-a button-a1">Reserve a Table</button></NavLink>
                 </section>
                 <section className="section2-a1">
                 <img className="img-a1" src={img1} alt="Logo" />
@@ -33,7 +34,7 @@ function Main(){
             <article className="article-2">
                 <h2  className="head-a head-a2" >This Weeks Specials !</h2>
                 <div className="center-btn">
-                <a className="hover-btn" href="/order"><button type="submit" className="button-a button-a2">Online Menu</button></a>
+                <NavLink className="hover-btn" to="/order"><button type="submit" className="button-a button-a2">Online Menu</button></NavLink>
                 </div>
             </article>
 

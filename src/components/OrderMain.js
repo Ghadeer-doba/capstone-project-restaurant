@@ -3,6 +3,7 @@ import img1 from "../assets/food.jpg";
 import img2 from "../assets/greek salad.jpg"
 import img3 from "../assets/bruchetta.jpg"
 import img4 from "../assets/lemon dessert.jpg"
+import { NavLink } from "react-router-dom";
 
 function OrderMain(){
     return(
@@ -15,7 +16,7 @@ function OrderMain(){
                 <h2 className="order-heading">Are you Hungry?</h2>
                 <p className="order-p-img">Don't Wait!!! </p>
                 <p className="order-p1-img">Let Start to order food now!</p>
-                <a className="hover-btn" href="/menu"><button  className="button-a button-a1 button-order">online  menu</button></a>
+                <NavLink className="hover-btn" to="/menu"><button  className="button-a button-a1 button-order">online  menu</button></NavLink>
             </section>
             </section>
 
