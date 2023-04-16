@@ -19,25 +19,32 @@
     text-align: center;
     /* margin-left: 20px; */
     font-size: 1.5rem;
-    color: #333333;
+    color: black;
 
 }
 .conf-date{
     background-color: #ee9979;
+    opacity: .7;
 
 
 }
 .conf-time{
     background-color: #495E57;
+    opacity: .7;
+
 
 }
 .conf-guests{
     background-color: #f4ce14;
+    opacity: .7;
+
 
 
 }
 .conf-occasion{
     background-color: #FBDABB;
+    opacity: .7;
+
 
 }
 .con-th{

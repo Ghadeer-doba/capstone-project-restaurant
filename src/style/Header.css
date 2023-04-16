@@ -13,9 +13,9 @@
     width: 25px;
 
 }
-#hamburger-menuss {
+/* #hamburger-menuss {
     display: block;
-}
+} */
 
 
 
@@ -23,9 +23,9 @@
 /* --------------------media queries-------------------------- */
 @media (max-width: 992px) {
 
-    #hamburger-menuss {
+    /* #hamburger-menuss {
         display: block;
-    }
+    } */
 }
  @media (max-width: 768px) {
    .header-layer{
