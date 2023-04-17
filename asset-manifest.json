@@ -1,14 +1,12 @@
 {
   "files": {
-    "main.css": "/capstone-project-restaurant/static/css/main.8cdd4aff.css",
-    "main.js": "/capstone-project-restaurant/static/js/main.9c12f9b6.js",
-    "static/media/food.jpg": "/capstone-project-restaurant/static/media/food.b43517f155be23d9572c.jpg",
+    "main.css": "/capstone-project-restaurant/static/css/main.fb1250a9.css",
+    "main.js": "/capstone-project-restaurant/static/js/main.000c120e.js",
     "static/media/soup.jpg": "/capstone-project-restaurant/static/media/soup.01dac9e6f37ed34d9a16.jpg",
-    "static/media/Mario and Adrian b.jpg": "/capstone-project-restaurant/static/media/Mario and Adrian b.06965d3be1daefe908e9.jpg",
     "static/media/Mario and Adrian A.jpg": "/capstone-project-restaurant/static/media/Mario and Adrian A.52aafd1b5f1c62369f54.jpg",
     "static/media/3.jpg": "/capstone-project-restaurant/static/media/3.cbb539d148cfa587cbd3.jpg",
     "static/media/Meat.jpg": "/capstone-project-restaurant/static/media/Meat.4b06aadf41a7810d7b6b.jpg",
-    "static/media/menu1.jpg": "/capstone-project-restaurant/static/media/menu1.67abaed3960b33aa174b.jpg",
+    "static/media/food.jpg": "/capstone-project-restaurant/static/media/food.e8fde1dab8260efce6cf.jpg",
     "static/media/greek salad.jpg": "/capstone-project-restaurant/static/media/greek salad.40363b8493239b77d1fe.jpg",
     "static/media/Drinks.jpg": "/capstone-project-restaurant/static/media/Drinks.d8a179c4ca48b4dee967.jpg",
     "static/media/SeaFood.jpg": "/capstone-project-restaurant/static/media/SeaFood.6ff9e06cd162977fe99d.jpg",
@@ -24,11 +22,11 @@
     "static/media/man1.jpg": "/capstone-project-restaurant/static/media/man1.fd7c13efe4b4b5d39928.jpg",
     "index.html": "/capstone-project-restaurant/index.html",
     "static/media/icon _hamburger menu.svg": "/capstone-project-restaurant/static/media/icon _hamburger menu.0da6f67ced800ab909f63d5144de37ee.svg",
-    "main.8cdd4aff.css.map": "/capstone-project-restaurant/static/css/main.8cdd4aff.css.map",
-    "main.9c12f9b6.js.map": "/capstone-project-restaurant/static/js/main.9c12f9b6.js.map"
+    "main.fb1250a9.css.map": "/capstone-project-restaurant/static/css/main.fb1250a9.css.map",
+    "main.000c120e.js.map": "/capstone-project-restaurant/static/js/main.000c120e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cdd4aff.css",
-    "static/js/main.9c12f9b6.js"
+    "static/css/main.fb1250a9.css",
+    "static/js/main.000c120e.js"
   ]
 }
