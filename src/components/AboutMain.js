@@ -1,5 +1,5 @@
 import "../style/AboutMain.css";
-import img1 from "../assets/Mario and Adrian b.jpg"
+import img1 from "../assets/Mario and Adrian A.jpg"
 
 function AboutMain(){
     return(

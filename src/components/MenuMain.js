@@ -1,5 +1,5 @@
 import"../style/MenuMain.css";
-import img1 from "../assets/menu1.jpg";
+import img1 from "../assets/bruchetta.jpg";
 import img2 from "../assets/soup.jpg";
 import img3 from "../assets/Desserts.jpg";
 import img4 from "../assets/SeaFood.jpg";
